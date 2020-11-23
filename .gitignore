@@ -1,5 +1,5 @@
 /.vs/
-/Cipher/bin/
-/Cipher/obj/
+bin/
+obj/
 /Cipher.Tests/bin/
 /Cipher.Tests/obj/
